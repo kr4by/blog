@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-Skycoin a récemment annoncé qu'il serait présent sur COIN918, une plateforme globale de négoce de monnaies digitales. Avec ce nouveau référencement, Skycoin partage sa vision d'une meilleure crypto-monnaie à encore plus d'utilisateurs dans le monde. C’est un pas de plus en avant vers un réseau libre et ouvert.
+Skycoin a récemment annoncé qu'il serait présent sur COIN918, une plateforme globale d'échange de monnaies digitales. Avec ce nouveau référencement, Skycoin partage sa vision d'une meilleure crypto-monnaie à encore plus d'utilisateurs dans le monde. C’est un pas de plus en avant vers un réseau libre et ouvert.
 
 ## A propos de COIN918
 
