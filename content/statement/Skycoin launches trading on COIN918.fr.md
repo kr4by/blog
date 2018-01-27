@@ -1,5 +1,5 @@
 +++
-title = "Skycoin launches trading on COIN918"
+title = "Skycoin lance le trading sur COIN918"
 tags = [
     "Statement",
     "Exchange Listing",
@@ -13,28 +13,29 @@ categories = [
 ]
 +++
 
-Skycoin recently announced that it will list on COIN918, a global digital currency trading platform. With the new listing, Skycoin brings its vision for a better cryptocurrency to even more users worldwide. It’s one more step towards a free and open network.
+Skycoin a récemment annoncé qu'il serait présent sur COIN918, une plateforme globale de négoce de monnaies digitales. Avec ce nouveau référencement, Skycoin partage sa vision d'une meilleure crypto-monnaie à encore plus d'utilisateurs dans le monde. C’est un pas de plus en avant vers un réseau libre et ouvert.
 
-## About COIN918
+## A propos de COIN918
 
-COIN918 is owed by Australia COIN918 Fintech Group Pty. Ltd. in Sydney, Australia. It launched in beta in 2016 and currently is in version 5.0. The development time has paid off: today, COIN918 offers its users a high level of system reliability, with bank-quality user data encryption, dynamic authentication, and multi-level risk identification control. Its features include multi-wallet encryption, offline storage in bank safes, actively managed third-party funds, instant recharging, and quick withdrawal for greater ease of use.
+COIN918 est détenu par l'Australia COIN918 Fintech Group Pty. Ltd. à Sydney, Australie. Il a été lancé en beta en 2016 et il est actuellement en version 5.0. L’effort de développement a payé, aujourd'hui COIN918 offre à ses utilisateurs un système d'un haut niveau de fiabilité, avec une encryption des données utilisateurs de niveau bancaire, une authentification dynamique, et un contrôle d’identification des risques à de multiples niveaux. Ses fonctionnalités incluent une encryption multi-portefeuilles, un stockage déconnecté dans des coffres forts, des fonds activement gérés par une partie tierce, un rechargement instantané, et un retrait rapide pour une grande facilité d'utilisation. 
 
-In addition to these security and advantages, COIN918 offers personalization and customer service by a dedicated team. Its high-performance trading engine streamlines trading and gives the platform added utility. COIN918 a great choice for anyone 
-## Skycoin’s Expansion
+En plus de son niveau de sécurité et de ses avantages, COIN918 offre un service client personnalisé par une équipe dédiée. Son moteur de trading haute performance uniformise le trading et donne à la plateforme encore une utilité additionnelle. COIN918 est un excellent choix pour quiconque.
 
-The COIN918 listing is the latest in Skycoin’s rollout to users around the world. It’s only a matter of time before the coin becomes a major influence in the cryptocurrency space.
+## L'Expansion de Skycoin
 
-Skycoin is taking off for a simple but powerful reason: it’s a technically superior coin that re-engineers consensus to achieve true decentralization. By eliminating mining, Skycoin restores fairness to trading. It features a web-of-trust system that eliminates the corruption and network abuses that plague Bitcoin and other cryptocurrencies.
+Le référencement par COIN918 est le dernier dans le déploiement de Skycoin à travers le monde. C'est désormais une question de temps avant que cette monnaie devienne d'une influence majeure dans l'espace des crypto-monnaies. 
 
-Skycoin is lightning-fast, with transactions that take less than 2 seconds and have no block limits. It’s 100% anonymous and highly secure, with built-in protection against all known network attacks. It has no heavy processing requirements, making it a good choice for protecting the environment. Plus, Skycoin also powers Skywire, a peer-to-peer internet that lets users browse without corporate interference or network manipulation. 
+Skycoin décolle pour une simple mais bonne raison: c'est une monnaie techniquement supérieure qui restructure les consensus pour arriver à une réelle décentralisation. En supprimant le mining, Skycoin restaure l'impartialité dans le trading. Il comporte un système de confiance du web qui élimine la corruption et les abus de réseaux qui sont des fléaux pour le Bitcoin et les autres crypto-monnaies.
 
-Skycoin has been engineered to directly benefit the users. It’s about creating a better coin and a better network experience for everyone. With the listing on COIN918, the Skycoin team is excited to bring this carefully-crafted, user-oriented cryptocurrency to a wider population of users.
+Skycoin fonctionne à la vitesse de l'éclair, avec des transactions qui prennent moins de 2 secondes sans aucune limite de blocs. Il est 100% anonyme et hautement sécurisé, avec des protections intégrées pour tous les types d'attaque connues. Il n'a pas de lourd prérequis pour fonctionner, ce qui en fait un bon choix pour protéger votre environnement. En plus, Skycoin est aussi le moteur derrière Skywire, un internet peer-to-peer qui permet aux utilisateurs de naviguer sans l’interférence d'une société ou des manipulations du réseau.
+
+Skycoin a été pensé pour bénéficier directement aux utilisateurs. Il s'agit de créer une meilleure monnaie et une meilleure expérience de réseau pour tout le monde. Avec cette présence sur COIN918, l'équipe Skycoin est heureuse et excitée d'apporter cette crypto-monnaie, qui a été élaborée avec soin et qui est tournée vers les utilisateurs, à une population d'utilisateurs plus large.
 
 
-## Start Trading Now
+## Débutez dès maintenant
 
-You can trade Skycoin now on https://coin918.com.
+Vous pouvez déjà échanger des Skycoin sur https://coin918.com.
 
-To learn more about Skycoin, check out https://www.skycoin.net/ and join the Skycoin community.
+Pour en savoir plus sur Skycoin, consultez https://www.skycoin.net et rejoignez la communauté Skycoin.
 
 
